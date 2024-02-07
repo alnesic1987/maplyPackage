@@ -1,5 +1,5 @@
 framework module WhirlyGlobe {
-  umbrella header "WhirlyGlobe.h"
+  umbrella header "WhirlyGlobeMaplyComponent.h"
 
   export *
   module * { export * }
