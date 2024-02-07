@@ -428,6 +428,10 @@
 		<data>
 		G52MxkA9g3F7OAfCqhMNNDoQJZY=
 		</data>
+		<key>Headers/WhirlyGlobeMaplyComponent.h</key>
+		<data>
+		bmwoPVh3gYaZUtD7DzorK9LSBSY=
+		</data>
 		<key>Headers/WhirlyGlobeViewController.h</key>
 		<data>
 		0QwQanUoGBfOCe/REdArHSYMDnw=
@@ -439,6 +443,10 @@
 		<key>Info.plist</key>
 		<data>
 		tXVC+9AwLciS5vUrgAvjHovHvfA=
+		</data>
+		<key>Modules/module.modulemap</key>
+		<data>
+		/djLVxr2n8wioKWzREw87MSHGrk=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -1609,6 +1617,17 @@
 			yn8YmoMP56YrDPaTuiBlnNgSdyZ30AlzP1PL1SBTE4A=
 			</data>
 		</dict>
+		<key>Headers/WhirlyGlobeMaplyComponent.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			bmwoPVh3gYaZUtD7DzorK9LSBSY=
+			</data>
+			<key>hash2</key>
+			<data>
+			2mwxswvptLfvFjzg2ber0RXYByXLkLEp66XqqKtuf5E=
+			</data>
+		</dict>
 		<key>Headers/WhirlyGlobeViewController.h</key>
 		<dict>
 			<key>hash</key>
@@ -1629,6 +1648,17 @@
 			<key>hash2</key>
 			<data>
 			Zsa/NxaC1Q65lVfNa1lGdp7DLl8OU5UpFpo2H0KNrbA=
+			</data>
+		</dict>
+		<key>Modules/module.modulemap</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/djLVxr2n8wioKWzREw87MSHGrk=
+			</data>
+			<key>hash2</key>
+			<data>
+			Cxnlx5DaFX8piKJqaKVEV0GscOR3GA9jXdiqQzk9eB4=
 			</data>
 		</dict>
 	</dict>
