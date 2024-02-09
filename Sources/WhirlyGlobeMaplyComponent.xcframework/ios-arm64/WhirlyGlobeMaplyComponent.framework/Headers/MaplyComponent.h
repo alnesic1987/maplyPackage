@@ -76,7 +76,6 @@
 #import <WhirlyGlobeMaplyComponent/MapboxVectorTiles.h>
 #import <WhirlyGlobeMaplyComponent/MapboxVectorTilesPagingDelegate.h>
 #import <WhirlyGlobeMaplyComponent/MapboxVectorImageInterpreter.h>
-#import <WhirlyGlobeMaplyComponent/MapnikStyleSet.h>
 #import <WhirlyGlobeMaplyComponent/MapboxMultiSourceTileInfo.h>
 #import <WhirlyGlobeMaplyComponent/MaplyVectorStyleSimple.h>
 #import <WhirlyGlobeMaplyComponent/SLDStyleSet.h>
@@ -88,20 +87,21 @@
 #import <WhirlyGlobeMaplyComponent/MapboxVectorStyleSymbol.h>
 #import <WhirlyGlobeMaplyComponent/MapboxVectorStyleCircle.h>
 #import <WhirlyGlobeMaplyComponent/NSDictionary+StyleRules.h>
-#import <WhirlyGlobeMaplyComponent/SLDExpressions.h>
-#import <WhirlyGlobeMaplyComponent/SLDOperators.h>
 #import <WhirlyGlobeMaplyComponent/MaplyVectorTileStyle.h>
-#import <WhirlyGlobeMaplyComponent/MapnikStyleRule.h>
 #import <WhirlyGlobeMaplyComponent/MaplyVectorTileTextStyle.h>
-#import <WhirlyGlobeMaplyComponent/SLDWellKnownMarkers.h>
+#import <WhirlyGlobeMaplyComponent/SLDWellKnownMarkers.h>       // Check if Needed
 #import <WhirlyGlobeMaplyComponent/MaplyVectorTileMarkerStyle.h>
 #import <WhirlyGlobeMaplyComponent/GeoJSONSource.h>
 #import <WhirlyGlobeMaplyComponent/MaplyVectorTilePolygonStyle.h>
 #import <WhirlyGlobeMaplyComponent/Maply3dTouchPreviewDelegate.h>
-#import <WhirlyGlobeMaplyComponent/MapnikStyle.h>
+#import <WhirlyGlobeMaplyComponent/MapnikStyleSet.h>
+#import <WhirlyGlobeMaplyComponent/MapnikStyleRule.h>           // Check if Needed
+#import <WhirlyGlobeMaplyComponent/MapnikStyle.h>               // Check if Needed
 #import <WhirlyGlobeMaplyComponent/NSData+Zlib.h>
 #import <WhirlyGlobeMaplyComponent/MaplyVectorTileLineStyle.h>
 #import <WhirlyGlobeMaplyComponent/MaplySphericalQuadEarthWithTexGroup.h>
-#import <WhirlyGlobeMaplyComponent/SLDSymbolizers.h>
+//#import <WhirlyGlobeMaplyComponent/SLDExpressions.h>
+//#import <WhirlyGlobeMaplyComponent/SLDOperators.h>
+//#import <WhirlyGlobeMaplyComponent/SLDSymbolizers.h>
 #import <WhirlyGlobeMaplyComponent/MaplyPagingElevationTestTileSource.h>
 

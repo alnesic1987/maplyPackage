@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/GeoJSONSource.h</key>
+		<data>
+		4WY0qxxxeQOalF7YezlsKuATgdg=
+		</data>
 		<key>Headers/MapboxMultiSourceTileInfo.h</key>
 		<data>
 		4KvDi9RqdF2dgH7SRw1FfrXzFps=
@@ -15,6 +19,10 @@
 		<key>Headers/MapboxVectorStyleBackground.h</key>
 		<data>
 		Jlu78NSLP9zqH3IBmrItyE1AHyg=
+		</data>
+		<key>Headers/MapboxVectorStyleCircle.h</key>
+		<data>
+		rbE0r/s0Sop+nozXDYJ6CGBKZaw=
 		</data>
 		<key>Headers/MapboxVectorStyleFill.h</key>
 		<data>
@@ -98,7 +106,7 @@
 		</data>
 		<key>Headers/MaplyComponent.h</key>
 		<data>
-		hFqcmN9skYmIkrnSXhrcDl+VvDU=
+		KvQpPMF9wbxnuf1Goy4rDY9wfts=
 		</data>
 		<key>Headers/MaplyComponentObject.h</key>
 		<data>
@@ -324,6 +332,26 @@
 		<data>
 		tAWD8jUnzQ5sxB4r8NZGuK8gtZY=
 		</data>
+		<key>Headers/MaplyVectorTileLineStyle.h</key>
+		<data>
+		H/eTscELckA1nkY9KmvZFS1EWnU=
+		</data>
+		<key>Headers/MaplyVectorTileMarkerStyle.h</key>
+		<data>
+		tghmWB/ZR789JD4qj2PpMThW/ns=
+		</data>
+		<key>Headers/MaplyVectorTilePolygonStyle.h</key>
+		<data>
+		+MsBLE8RfynTrCNhQ8Bg8TiU8n0=
+		</data>
+		<key>Headers/MaplyVectorTileStyle.h</key>
+		<data>
+		CiH3aSL/5JDUI/qkTNgjGQJlMBA=
+		</data>
+		<key>Headers/MaplyVectorTileTextStyle.h</key>
+		<data>
+		ia43oZYhuxwS4ODmlmiTgylrhus=
+		</data>
 		<key>Headers/MaplyVectorTiles.h</key>
 		<data>
 		u0c4qzOY45zEL0BdMj4aykp2rVk=
@@ -348,6 +376,14 @@
 		<data>
 		oygqTcm4GVmCuxmNVtVgaPGchl8=
 		</data>
+		<key>Headers/MapnikStyle.h</key>
+		<data>
+		JUfucO+j8aQDTLQYIUzi97gCdvQ=
+		</data>
+		<key>Headers/MapnikStyleRule.h</key>
+		<data>
+		IgHpXepyA0I+3eUf9dw+fWNYjHA=
+		</data>
 		<key>Headers/MapnikStyleSet.h</key>
 		<data>
 		nSEzyQY9FXOrj9NUhABj9xu0/Ls=
@@ -363,6 +399,10 @@
 		<key>Headers/SLDStyleSet.h</key>
 		<data>
 		Q42vdpYXrYv4tRuUIp9GmXQQ1S4=
+		</data>
+		<key>Headers/SLDWellKnownMarkers.h</key>
+		<data>
+		sVDu3JHFKWqIj8ZDJtqEEjjxAV4=
 		</data>
 		<key>Headers/WGCoordinate.h</key>
 		<data>
@@ -391,6 +431,13 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/GeoJSONSource.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			92m85AIro5XGQejK3G5VQYIm8IZ7qcnQez4vPlwqQxk=
+			</data>
+		</dict>
 		<key>Headers/MapboxMultiSourceTileInfo.h</key>
 		<dict>
 			<key>hash2</key>
@@ -410,6 +457,13 @@
 			<key>hash2</key>
 			<data>
 			hu3RTE2UTx/S3GT8z4OGjhwzWwqCs1nYoJM4lT8BXQg=
+			</data>
+		</dict>
+		<key>Headers/MapboxVectorStyleCircle.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hDaSesvek1tGXPZa6ic+VDptR1InLClQ6wLOVyLkTQQ=
 			</data>
 		</dict>
 		<key>Headers/MapboxVectorStyleFill.h</key>
@@ -556,7 +610,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PzZ/akl+XwuohshG4beV/XDkm8b4N45XZ2ZUSuT6pD0=
+			thuNUIg+r7UudkdEYcbDQYiKMxANj09fPD25i/MioZs=
 			</data>
 		</dict>
 		<key>Headers/MaplyComponentObject.h</key>
@@ -951,6 +1005,41 @@
 			/tzEjGoQcL5U4/vzLsLs8cqfSE2qXoH3Obhc1pmEpUU=
 			</data>
 		</dict>
+		<key>Headers/MaplyVectorTileLineStyle.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			AVlFVfZ/yuq/UWVJJRu+sYF8vmb9xjjdC3/cHo5byg0=
+			</data>
+		</dict>
+		<key>Headers/MaplyVectorTileMarkerStyle.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cTwotdNcc+XlZXCCn1+aDh3Bsf2h141MQkrsr8JobFg=
+			</data>
+		</dict>
+		<key>Headers/MaplyVectorTilePolygonStyle.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8DwN8EZsr0hB752e0xQDUF84zLs4PLu8gFQFX3Y+2SU=
+			</data>
+		</dict>
+		<key>Headers/MaplyVectorTileStyle.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VW0qN4CxUdOw61D2+1Dian4gS/WWNPgim34xTfIK0go=
+			</data>
+		</dict>
+		<key>Headers/MaplyVectorTileTextStyle.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			eEFTObg6QomUIoCQ0B4A11PYUIE+CnDHItYOe1t9XLg=
+			</data>
+		</dict>
 		<key>Headers/MaplyVectorTiles.h</key>
 		<dict>
 			<key>hash2</key>
@@ -993,6 +1082,20 @@
 			t8iw0Vu2OQAyw1nqMgEuKr5dXG5AwNxmyentq6qALXs=
 			</data>
 		</dict>
+		<key>Headers/MapnikStyle.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BP92vbXST9qeUR4MDsEv/RWEkXJqGuGWodL0r8BKnnI=
+			</data>
+		</dict>
+		<key>Headers/MapnikStyleRule.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4c5Hj9Q5dEWjHw/UF835Kns0nFBwW0rAVvjlWCPMz3Y=
+			</data>
+		</dict>
 		<key>Headers/MapnikStyleSet.h</key>
 		<dict>
 			<key>hash2</key>
@@ -1019,6 +1122,13 @@
 			<key>hash2</key>
 			<data>
 			L0QhU0YzUjv+kurJPlIZ22K8fdgs8IGvsnAI5HiTh0s=
+			</data>
+		</dict>
+		<key>Headers/SLDWellKnownMarkers.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ya5gHA+ZTmtFxiFg/KpyzG+TO+80BOjHVrfPulQj/7Q=
 			</data>
 		</dict>
 		<key>Headers/WGCoordinate.h</key>
