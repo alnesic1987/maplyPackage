@@ -18,7 +18,7 @@
  *
  */
 
-#import "MaplyViewControllerLayer.h"
+#import <WhirlyGlobeMaplyComponent/MaplyViewControllerLayer.h>
 
 /** 
     Spherical quad earth layer is an older style of base map

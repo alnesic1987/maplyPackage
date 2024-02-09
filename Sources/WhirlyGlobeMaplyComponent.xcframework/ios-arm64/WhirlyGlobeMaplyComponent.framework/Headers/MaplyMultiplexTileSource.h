@@ -18,9 +18,9 @@
  *
  */
 
-#import "MaplyTileSource.h"
-#import "MaplyCoordinateSystem.h"
-#import "MaplyRemoteTileSource.h"
+#import <WhirlyGlobeMaplyComponent/MaplyTileSource.h>
+#import <WhirlyGlobeMaplyComponent/MaplyCoordinateSystem.h>
+#import <WhirlyGlobeMaplyComponent/MaplyRemoteTileSource.h>
 
 /** 
     A delegate called during various parts of the tile loading and display operation.

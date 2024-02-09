@@ -18,10 +18,10 @@
  *
  */
 
-#import "MaplyViewControllerLayer.h"
-#import "MaplyCoordinateSystem.h"
-#import "MaplyTileSource.h"
-#import "MaplyTexture.h"
+#import <WhirlyGlobeMaplyComponent/MaplyViewControllerLayer.h>
+#import <WhirlyGlobeMaplyComponent/MaplyCoordinateSystem.h>
+#import <WhirlyGlobeMaplyComponent/MaplyTileSource.h>
+#import <WhirlyGlobeMaplyComponent/MaplyTexture.h>
 
 @class MaplyQuadImageOfflineLayer;
 

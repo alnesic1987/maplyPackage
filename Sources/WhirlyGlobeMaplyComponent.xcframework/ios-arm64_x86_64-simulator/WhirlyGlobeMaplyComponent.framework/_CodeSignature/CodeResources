@@ -4,53 +4,45 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/GeoJSONSource.h</key>
-		<data>
-		4WY0qxxxeQOalF7YezlsKuATgdg=
-		</data>
 		<key>Headers/MapboxMultiSourceTileInfo.h</key>
 		<data>
-		YlrTkRennIc74Vnunk5cfgY/VhQ=
+		4KvDi9RqdF2dgH7SRw1FfrXzFps=
 		</data>
 		<key>Headers/MapboxVectorImageInterpreter.h</key>
 		<data>
-		hv0B+OM8HrcORuzsuCIJWasGhVY=
+		8NXYmc+Vfsy9j0uGIUUlLQLhS74=
 		</data>
 		<key>Headers/MapboxVectorStyleBackground.h</key>
 		<data>
-		I5Q6sgLNPf2Da25FxJQc7VzUd3w=
-		</data>
-		<key>Headers/MapboxVectorStyleCircle.h</key>
-		<data>
-		rbE0r/s0Sop+nozXDYJ6CGBKZaw=
+		Jlu78NSLP9zqH3IBmrItyE1AHyg=
 		</data>
 		<key>Headers/MapboxVectorStyleFill.h</key>
 		<data>
-		tnQqOBj5VkAJq78wwqxZqOgsLNc=
+		3RS1Ph0JRVoHots7J3olsnO211E=
 		</data>
 		<key>Headers/MapboxVectorStyleLine.h</key>
 		<data>
-		AANc2NV1ApbFJ8G5JMIJT6VxCyE=
+		8hctCxbS7DoeD+Qmhl6lveX1X50=
 		</data>
 		<key>Headers/MapboxVectorStyleRaster.h</key>
 		<data>
-		VrzwqnoCCw4PKpyMudhisC7TFgw=
+		SXiMXMnttEzu+woGSn9VwzyyQBo=
 		</data>
 		<key>Headers/MapboxVectorStyleSet.h</key>
 		<data>
-		SWYZUAdeHCwyZTUAybBba1oMJvk=
+		kwW2IpyXsccASvHvXgNXkrCb31Y=
 		</data>
 		<key>Headers/MapboxVectorStyleSymbol.h</key>
 		<data>
-		kqyw5KXJqJ6DTVfMRiKmo4BF9+U=
+		drM4xshfyN1ZaZvb3GYaFEiWKus=
 		</data>
 		<key>Headers/MapboxVectorTiles.h</key>
 		<data>
-		rP231BUBY/NagbUfoBgNb011QL0=
+		PUx0dbAuG3wVv5CBGpSqAe8vK28=
 		</data>
 		<key>Headers/MapboxVectorTilesPagingDelegate.h</key>
 		<data>
-		TcB3tmfDohacIjSDOQ35n4c/OGU=
+		PSeuobed+2G1K3Ppr/BGKkiioSo=
 		</data>
 		<key>Headers/Maply3DTouchPreviewDatasource.h</key>
 		<data>
@@ -58,7 +50,7 @@
 		</data>
 		<key>Headers/Maply3dTouchPreviewDelegate.h</key>
 		<data>
-		c/xewEw2R6OpJq0lPPd8t6496SI=
+		GhyXHa4AgXMAFuq3LU0ttD1Dly0=
 		</data>
 		<key>Headers/MaplyActiveObject.h</key>
 		<data>
@@ -70,35 +62,35 @@
 		</data>
 		<key>Headers/MaplyAnimationTestTileSource.h</key>
 		<data>
-		On0UnwU/qTqXnKK3U2HsFFBWscM=
+		xzAAo6WEya3rp3cJLTyjOG4+aic=
 		</data>
 		<key>Headers/MaplyAnnotation.h</key>
 		<data>
-		RS4cs1z82WR18CgeVt+3c+NLdZI=
+		ggtbtJJWMfGbG70YpLmB0XSh0yc=
 		</data>
 		<key>Headers/MaplyAtmosphere.h</key>
 		<data>
-		neCHbpj1bkEpzMk208fCUaQvkFg=
+		xMjG0Q2nLfyrT4VI3rW2Dt5NU7Q=
 		</data>
 		<key>Headers/MaplyBaseViewController.h</key>
 		<data>
-		EmYfYl9O8nVLWMnRIxbBRl2+XNs=
+		CdbvZLaooI51gAjfx2Z3g87kEs0=
 		</data>
 		<key>Headers/MaplyBillboard.h</key>
 		<data>
-		RPb2ibJTcl8hLhuShEoF3YGanlI=
+		3J0vIar1DZY8uhCPaxkyKQuDcVo=
 		</data>
 		<key>Headers/MaplyBlankTileSource.h</key>
 		<data>
-		ZjgdhC9QV3wWYDp/VNdXt7GINHs=
+		83+RqMLsMcmvWWk8A1Aicrm49Jk=
 		</data>
 		<key>Headers/MaplyBridge.h</key>
 		<data>
-		tekZm970/f9Z2ttGYNLRgt/RvhQ=
+		+y40F/QpBMwW3lx4XskODjjGifE=
 		</data>
 		<key>Headers/MaplyCluster.h</key>
 		<data>
-		3MoDed4w1aNe3rXcx0ZSEXwUufc=
+		tywaIHKTSYi3NZnKGiEfBkDympw=
 		</data>
 		<key>Headers/MaplyColorRampGenerator.h</key>
 		<data>
@@ -106,7 +98,7 @@
 		</data>
 		<key>Headers/MaplyComponent.h</key>
 		<data>
-		k3LfxCmBhTcGuG00qGa0jPjXmRM=
+		hFqcmN9skYmIkrnSXhrcDl+VvDU=
 		</data>
 		<key>Headers/MaplyComponentObject.h</key>
 		<data>
@@ -118,27 +110,27 @@
 		</data>
 		<key>Headers/MaplyCoordinateSystem.h</key>
 		<data>
-		W0j+MLzpg/sJemLX64g+o9e9CZg=
+		ZhsK6ktQ+Tt+1Ed+ojs9GxeOMJI=
 		</data>
 		<key>Headers/MaplyElevationDatabase.h</key>
 		<data>
-		iXu/RpQVmqpF3LBhe65pcJepLp4=
+		3JrHHdIdpr0GedyTHXkFpy6Cbhk=
 		</data>
 		<key>Headers/MaplyElevationSource.h</key>
 		<data>
-		rSTOCC5zRn3G+t73HqHZt/WVdYQ=
+		B9+Wuo9S+ta11lLV20ZvoxOsI6c=
 		</data>
 		<key>Headers/MaplyGDALRetileSource.h</key>
 		<data>
-		8v9saQu6re7b5anpaQbq/D7muGw=
+		1KnBoaXVcS+PkxMu6nelqn3HKEg=
 		</data>
 		<key>Headers/MaplyGeomBuilder.h</key>
 		<data>
-		COaRFj1z/6uYgLa6uSfxum6HUo0=
+		7GEo1XtZ6d3wEPownVRmt+uxFLY=
 		</data>
 		<key>Headers/MaplyGeomModel.h</key>
 		<data>
-		ctnlij7v4nD+sc/WQN44Va1TMYY=
+		QASSkBN3GvtWjAxdUoCGKmbH4oY=
 		</data>
 		<key>Headers/MaplyIconManager.h</key>
 		<data>
@@ -148,41 +140,37 @@
 		<data>
 		A/h16wMuNAjpBIknO5kApgg/0RI=
 		</data>
-		<key>Headers/MaplyLAZMeshBuilder.h</key>
-		<data>
-		vZhEjlb2tfq1uzjoZSKPKjOLgM8=
-		</data>
 		<key>Headers/MaplyLAZQuadReader.h</key>
 		<data>
-		8Pc7K71/5NucGC0rVxooZPLIGuQ=
+		JHkVsV28+Kzu5wiAjyQMGtHXJSI=
 		</data>
 		<key>Headers/MaplyLAZShader.h</key>
 		<data>
-		IR0W2k/zBGWUv+WXtRZaHCMnEFc=
+		nbywaiDhkp0P8qCM2RiRUYOdGX8=
 		</data>
 		<key>Headers/MaplyLabel.h</key>
 		<data>
-		agnz7HLKjkgA4XJgKkjVMlB/iSc=
+		e8XF/Pb6vbKsp727l6kovX8nJok=
 		</data>
 		<key>Headers/MaplyLight.h</key>
 		<data>
-		ai/veNV0Ejhy9ABW+hPM2D4010U=
+		RKr0ZKn7N1t00ISBGz06fbYNBUc=
 		</data>
 		<key>Headers/MaplyLocationTracker.h</key>
 		<data>
-		kb8VBJzKddewLMgvmT6mLk76vn0=
+		8gPC791Op46bJcdH7JWCXBbgbe8=
 		</data>
 		<key>Headers/MaplyMBTileFetcher.h</key>
 		<data>
-		h178K3VXoKWstlOX1MOd5PIhI2g=
+		2/Kk0gFCxI0/keMaih0g4VFvUgc=
 		</data>
 		<key>Headers/MaplyMBTileSource.h</key>
 		<data>
-		NyGqHmSeH9t7Dm6fYvhlx3jd02o=
+		6gl6s4hbyfT8ut3deEX4GJ9bxus=
 		</data>
 		<key>Headers/MaplyMarker.h</key>
 		<data>
-		CUOJkZnyOpmEKp0GJfRZhdlHgYU=
+		/cGY9w/35C0acfThKP5pZ3GVfUE=
 		</data>
 		<key>Headers/MaplyMatrix.h</key>
 		<data>
@@ -190,87 +178,87 @@
 		</data>
 		<key>Headers/MaplyMoon.h</key>
 		<data>
-		nGC38J4hyuZlyfELGt6fEi+8UZ8=
+		2ri9tzTzn6CFAIf/jyoXfoc9j/4=
 		</data>
 		<key>Headers/MaplyMultiplexTileSource.h</key>
 		<data>
-		2Gg9WtdAUhX7jK40MhwlMTf0z54=
+		8HefPpBcIRjxJkh/QspF3cPE+6Y=
 		</data>
 		<key>Headers/MaplyPagingElevationTestTileSource.h</key>
 		<data>
-		Mp8f1VJChOMcsrz6jNs8Sd6sBwA=
+		zYraSILImZfNoylulPsbo/f9m/o=
 		</data>
 		<key>Headers/MaplyPagingVectorTestTileSource.h</key>
 		<data>
-		ueFKlKaT3N4xNjqDJJToCeybT/Q=
+		RY0DzFT5/Rhg2ejRzzXo+qcSInw=
 		</data>
 		<key>Headers/MaplyParticleSystem.h</key>
 		<data>
-		UXhT/dOsyG7xzD+Nqs6F7+8VUzc=
+		Go72xp0nnnAuKwErR7+GvUOhUmg=
 		</data>
 		<key>Headers/MaplyPoints.h</key>
 		<data>
-		XWSyZwg4BUqCTRwl2Hr3yULl5SE=
+		To+XQDz4d3HYXkJ4cPdckjFp6qI=
 		</data>
 		<key>Headers/MaplyQuadImageFrameLoader.h</key>
 		<data>
-		8HgWFNp5QJqltkBwREukyfVAZAM=
+		1TD6kxd2xLda7FXSbEmknNLGcPk=
 		</data>
 		<key>Headers/MaplyQuadImageLoader.h</key>
 		<data>
-		YHiG1aweGm+PdYukKcArtp5ZD1k=
+		Nz1SXsnhvFtA3uxzhzaBH5GDcyQ=
 		</data>
 		<key>Headers/MaplyQuadImageOfflineLayer.h</key>
 		<data>
-		y6pZ/1GXzO59ZNuIln5QDHPtcu8=
+		N6w5md+dm5h4LK90w9nMPlEKFRk=
 		</data>
 		<key>Headers/MaplyQuadImageTilesLayer.h</key>
 		<data>
-		1fC8dNBjMeMphXdOC6vPtj5mLAc=
+		QTRca//gPbG12CZvQsX290ONC7I=
 		</data>
 		<key>Headers/MaplyQuadPagingLayer.h</key>
 		<data>
-		/Fn5ELlqcdldZOYFllkd4d8YCig=
+		IFRw432uODW0AOvgckKR7NCMl3k=
 		</data>
 		<key>Headers/MaplyQuadSampler.h</key>
 		<data>
-		cNNCUqbQPRW/qK3m8M+BE0+7iWg=
+		uXf+iYTvk++mxtzy8pHSE0Paocs=
 		</data>
 		<key>Headers/MaplyQuadTracker.h</key>
 		<data>
-		ricGg/aeAVsNeTqQI2iM+p1WIPg=
+		lKuh+TkHsJn6w4wO8F8KPYpNmO0=
 		</data>
 		<key>Headers/MaplyRemoteTileElevationSource.h</key>
 		<data>
-		Odqo8qUdPkurdNyvzTg11/2aVHM=
+		pjnY4FKSsSAg5LkzE6n5E/hGPB8=
 		</data>
 		<key>Headers/MaplyRemoteTileFetcher.h</key>
 		<data>
-		lQ3AcMdg65UV0MYa1Ann1FVboeQ=
+		iMr4aHjqAD1cBdFPyGZHhW3blDA=
 		</data>
 		<key>Headers/MaplyRemoteTileSource.h</key>
 		<data>
-		aGpnXV1tQhDRDD4mbuNFNMRJsuI=
+		EXO62vCHWSMSHYE1Cv2LitHalZI=
 		</data>
 		<key>Headers/MaplyRenderController.h</key>
 		<data>
-		i5Okz0kanvkNDDVrfcW3PnfSgCM=
+		DX/+zeKgWvporcQL29NqX+KdScw=
 		</data>
 		<key>Headers/MaplyRenderTarget.h</key>
 		<data>
-		V+x4S5lSa3dLbaCquGEAAMksC4Y=
+		YnTmuIdTU/AR/QEU+22fh5p4o0k=
 		</data>
 		<key>Headers/MaplyScreenLabel.h</key>
 		<data>
-		NFj0UVtkqrjk0LZQIwiEZlwlz/k=
+		uIu39QpTGNIDbsbosH9BHshzZE0=
 		</data>
 		<key>Headers/MaplyScreenMarker.h</key>
 		<data>
-		Ewp9KOS5mZXPdhDjATipyS/uxhc=
+		V4Wk5+c6JJdcUpcOhKUCg7m7a5k=
 		</data>
 		<key>Headers/MaplyScreenObject.h</key>
 		<data>
-		Cm1GEfiapBye/GtrQmOSglj8Mhg=
+		IVawNZjdQBS+/xBT3EVsASpAcYA=
 		</data>
 		<key>Headers/MaplyShader.h</key>
 		<data>
@@ -278,7 +266,7 @@
 		</data>
 		<key>Headers/MaplyShape.h</key>
 		<data>
-		r4ciZV7Tdi7oz4yEuxccFpJ/+ks=
+		0yaqyfEqObTtN3LdkAeUwWFxLtQ=
 		</data>
 		<key>Headers/MaplySharedAttributes.h</key>
 		<data>
@@ -286,19 +274,19 @@
 		</data>
 		<key>Headers/MaplySphericalQuadEarthWithTexGroup.h</key>
 		<data>
-		1AZOap5Tl1Y9KRNdCnZou9GVMIg=
+		g0FmHNKH+KOZQm4qo7sg/KEXxOs=
 		</data>
 		<key>Headers/MaplyStarsModel.h</key>
 		<data>
-		/9p5YT6j6CXieDYPHuseSlzXG6s=
+		vEn2SdWRk9TNbKWLOWbqpQd9Y1E=
 		</data>
 		<key>Headers/MaplySticker.h</key>
 		<data>
-		zaPdnz//n8WPukyDUjSYQDoAksU=
+		rXNVi/QQ7ya7JK1OrVjEVvH91fM=
 		</data>
 		<key>Headers/MaplySun.h</key>
 		<data>
-		lGLNjBMUIPohwh95l755vHiONTs=
+		RMoPKT+5eJ7H6zo+whJAHby9snA=
 		</data>
 		<key>Headers/MaplyTexture.h</key>
 		<data>
@@ -310,23 +298,23 @@
 		</data>
 		<key>Headers/MaplyTileSource.h</key>
 		<data>
-		kMiP693ykvKF9MWCooK9t/JAO+s=
+		3PJq1UVIlwBvzdCzhob9xPFrpHA=
 		</data>
 		<key>Headers/MaplyTileSourceNew.h</key>
 		<data>
-		wKsQRjj65SwHuZ1s+8rlDmwP6MA=
+		y1POQDYebECWrJ2QtVZgsGCN1YI=
 		</data>
 		<key>Headers/MaplyUpdateLayer.h</key>
 		<data>
-		uCQSldgwopmNKCmd5T2NkUJ0cY0=
+		unEZgsVYx+OaN7dPXtNCZeLgd8s=
 		</data>
 		<key>Headers/MaplyVariableTarget.h</key>
 		<data>
-		If1zvmdyfbOXBM/x6FEUFowzdzg=
+		FHJahHQwDgazsTFiQ8J71PBP9Aw=
 		</data>
 		<key>Headers/MaplyVectorObject.h</key>
 		<data>
-		U0ZtnGmT37NZtz0XSpoUtB+jzMU=
+		AxemrwUHSoMPU3O8gtibEfZHqlg=
 		</data>
 		<key>Headers/MaplyVectorStyle.h</key>
 		<data>
@@ -334,31 +322,11 @@
 		</data>
 		<key>Headers/MaplyVectorStyleSimple.h</key>
 		<data>
-		XWiNYdyI/ydgV/nuS5OjqZ31lo4=
-		</data>
-		<key>Headers/MaplyVectorTileLineStyle.h</key>
-		<data>
-		H/eTscELckA1nkY9KmvZFS1EWnU=
-		</data>
-		<key>Headers/MaplyVectorTileMarkerStyle.h</key>
-		<data>
-		tghmWB/ZR789JD4qj2PpMThW/ns=
-		</data>
-		<key>Headers/MaplyVectorTilePolygonStyle.h</key>
-		<data>
-		+MsBLE8RfynTrCNhQ8Bg8TiU8n0=
-		</data>
-		<key>Headers/MaplyVectorTileStyle.h</key>
-		<data>
-		CiH3aSL/5JDUI/qkTNgjGQJlMBA=
-		</data>
-		<key>Headers/MaplyVectorTileTextStyle.h</key>
-		<data>
-		ia43oZYhuxwS4ODmlmiTgylrhus=
+		tAWD8jUnzQ5sxB4r8NZGuK8gtZY=
 		</data>
 		<key>Headers/MaplyVectorTiles.h</key>
 		<data>
-		BgiX+qHm0NNtUS21VTlr4/mA8xA=
+		u0c4qzOY45zEL0BdMj4aykp2rVk=
 		</data>
 		<key>Headers/MaplyVertexAttribute.h</key>
 		<data>
@@ -366,7 +334,7 @@
 		</data>
 		<key>Headers/MaplyViewController.h</key>
 		<data>
-		Sd6IZHK27u0Gm1E4uz4QCPnSi34=
+		qMGK6h1IeAjmWBVxRWTOqO5Rpdo=
 		</data>
 		<key>Headers/MaplyViewControllerLayer.h</key>
 		<data>
@@ -374,23 +342,15 @@
 		</data>
 		<key>Headers/MaplyViewTracker.h</key>
 		<data>
-		RM7p+AIHgqslBc0out4MK/q1TAg=
+		/nQYAscJMH63JGKAVp3L3m7OmeA=
 		</data>
 		<key>Headers/MaplyWMSTileSource.h</key>
 		<data>
-		QIvFyMj7pPmT3+Brry6/VAnHfLE=
-		</data>
-		<key>Headers/MapnikStyle.h</key>
-		<data>
-		JUfucO+j8aQDTLQYIUzi97gCdvQ=
-		</data>
-		<key>Headers/MapnikStyleRule.h</key>
-		<data>
-		IgHpXepyA0I+3eUf9dw+fWNYjHA=
+		oygqTcm4GVmCuxmNVtVgaPGchl8=
 		</data>
 		<key>Headers/MapnikStyleSet.h</key>
 		<data>
-		vN9ep9JPiQE4Z82m3tzdfeXWd5g=
+		nSEzyQY9FXOrj9NUhABj9xu0/Ls=
 		</data>
 		<key>Headers/NSData+Zlib.h</key>
 		<data>
@@ -400,49 +360,29 @@
 		<data>
 		uphDMxI5vMG/TqKHx4diLyAwLjM=
 		</data>
-		<key>Headers/SLDExpressions.h</key>
-		<data>
-		YUHbIEP5BSFIbzaYuDQiiJaTPxk=
-		</data>
-		<key>Headers/SLDOperators.h</key>
-		<data>
-		+/NaBhuBZXO+7ggIZYK0mH6v6/k=
-		</data>
 		<key>Headers/SLDStyleSet.h</key>
 		<data>
-		BG987MS3a7IN1P5Djcc/MYRs76s=
-		</data>
-		<key>Headers/SLDSymbolizers.h</key>
-		<data>
-		d94CND9zYvpsshs0gIGNFCsiVGk=
-		</data>
-		<key>Headers/SLDWellKnownMarkers.h</key>
-		<data>
-		sVDu3JHFKWqIj8ZDJtqEEjjxAV4=
+		Q42vdpYXrYv4tRuUIp9GmXQQ1S4=
 		</data>
 		<key>Headers/WGCoordinate.h</key>
 		<data>
-		G4SyjUNwrcEHJAMlhK/5iv3bbQU=
+		Ubt9jkofN7OJL1ThxCPV+StBq8U=
 		</data>
 		<key>Headers/WhirlyGlobeComponent.h</key>
 		<data>
-		G52MxkA9g3F7OAfCqhMNNDoQJZY=
+		nLEYTNKTOT80nm7JhPqMNaWo4SA=
 		</data>
 		<key>Headers/WhirlyGlobeMaplyComponent.h</key>
 		<data>
-		bmwoPVh3gYaZUtD7DzorK9LSBSY=
+		t6Ojo8HL96lBBOg83aXgTboVy68=
 		</data>
 		<key>Headers/WhirlyGlobeViewController.h</key>
 		<data>
-		0QwQanUoGBfOCe/REdArHSYMDnw=
-		</data>
-		<key>Headers/vector_tile.pb.h</key>
-		<data>
-		H9Mwur3Vyyep7RDf9dUWcFdPzy4=
+		ldnsTHvNeI8u1Y9RvsJZC2kbGJ8=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		tXVC+9AwLciS5vUrgAvjHovHvfA=
+		S413q+uENDzWGjBRQ44MJ+kTPFI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -451,144 +391,78 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/GeoJSONSource.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			4WY0qxxxeQOalF7YezlsKuATgdg=
-			</data>
-			<key>hash2</key>
-			<data>
-			92m85AIro5XGQejK3G5VQYIm8IZ7qcnQez4vPlwqQxk=
-			</data>
-		</dict>
 		<key>Headers/MapboxMultiSourceTileInfo.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			YlrTkRennIc74Vnunk5cfgY/VhQ=
-			</data>
 			<key>hash2</key>
 			<data>
-			8gMb44V/+cZ2mnZ+zOJ1+AOvtCkuzv2XXDy87R79Z/Q=
+			kL0j2S5N7tMqoeJZRpikiCJBEyLcy2pZ8dVasJV9nVk=
 			</data>
 		</dict>
 		<key>Headers/MapboxVectorImageInterpreter.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			hv0B+OM8HrcORuzsuCIJWasGhVY=
-			</data>
 			<key>hash2</key>
 			<data>
-			drxJQjNeIfvuOSa0KCKeLzr4K8hwGSDJCM9XouC6JA4=
+			uvL4QW90N5siztLV41U5Q1lXQXXxEUp6urD5A94b5zY=
 			</data>
 		</dict>
 		<key>Headers/MapboxVectorStyleBackground.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			I5Q6sgLNPf2Da25FxJQc7VzUd3w=
-			</data>
 			<key>hash2</key>
 			<data>
-			w/SAG6BwCMj8G48uibwhZLqXS5zanvZaxwS676Jgphw=
-			</data>
-		</dict>
-		<key>Headers/MapboxVectorStyleCircle.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			rbE0r/s0Sop+nozXDYJ6CGBKZaw=
-			</data>
-			<key>hash2</key>
-			<data>
-			hDaSesvek1tGXPZa6ic+VDptR1InLClQ6wLOVyLkTQQ=
+			hu3RTE2UTx/S3GT8z4OGjhwzWwqCs1nYoJM4lT8BXQg=
 			</data>
 		</dict>
 		<key>Headers/MapboxVectorStyleFill.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			tnQqOBj5VkAJq78wwqxZqOgsLNc=
-			</data>
 			<key>hash2</key>
 			<data>
-			JmPLjy8UJ2lEiOUkyNZluiGeD+VyGw4qVh73FWKV+yo=
+			WLjrAhDN09oJkLGM7XtLyCmUO+Xp6lbfQ5we9FGdd5Y=
 			</data>
 		</dict>
 		<key>Headers/MapboxVectorStyleLine.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			AANc2NV1ApbFJ8G5JMIJT6VxCyE=
-			</data>
 			<key>hash2</key>
 			<data>
-			K09vAY46K+/FeI8Y3eyvuqXki82RFPxxLkxOMVij5Pc=
+			annCX/Gn/EWd0ZZWIA92BAJFbtKwqoN7TJ/8wWhKMA0=
 			</data>
 		</dict>
 		<key>Headers/MapboxVectorStyleRaster.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			VrzwqnoCCw4PKpyMudhisC7TFgw=
-			</data>
 			<key>hash2</key>
 			<data>
-			f859ZWsfy3KYaqpiJc4t4JYvfliOnbcE4v06v8dPO7A=
+			fxQzoIo+p/7jKlUuRyerachrd3isXdfjhEWql+BCjjI=
 			</data>
 		</dict>
 		<key>Headers/MapboxVectorStyleSet.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			SWYZUAdeHCwyZTUAybBba1oMJvk=
-			</data>
 			<key>hash2</key>
 			<data>
-			SEXHTCaUKKQDuFZMGHICmGkgX05e5td2M5b98iGhPkE=
+			1iQ3o9NoVva/XZndWAQ3zLnwXviD637vlx2pAeNTBsk=
 			</data>
 		</dict>
 		<key>Headers/MapboxVectorStyleSymbol.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			kqyw5KXJqJ6DTVfMRiKmo4BF9+U=
-			</data>
 			<key>hash2</key>
 			<data>
-			c/2NDC4HZCszCO1G3gJDhqWJGGReCNQ+luxtqj7clI0=
+			BQYQ9ikTHnHNbUA95UrIcei5URYSlKK3pdIYctj5DgE=
 			</data>
 		</dict>
 		<key>Headers/MapboxVectorTiles.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			rP231BUBY/NagbUfoBgNb011QL0=
-			</data>
 			<key>hash2</key>
 			<data>
-			PT1FXvrhRhJ4YHztR54bqI9+X7Hg4MrWifwY+SIjQmo=
+			I2N7WmqlyXOC29E4Z1IqabGbYVfloukmPGdJCXxjsVw=
 			</data>
 		</dict>
 		<key>Headers/MapboxVectorTilesPagingDelegate.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			TcB3tmfDohacIjSDOQ35n4c/OGU=
-			</data>
 			<key>hash2</key>
 			<data>
-			X8VHKl/R3zvD9L2tK0hlCbUxCcitwOIzXprjIGS0V+g=
+			8GEddBhyoR9iAbhLqpKxx7UNIeOboeczPuIWOtBu37s=
 			</data>
 		</dict>
 		<key>Headers/Maply3DTouchPreviewDatasource.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			veOjOMM7qE1UtogzjI8DRrsuNPg=
-			</data>
 			<key>hash2</key>
 			<data>
 			SGA2k3ZgFOs8HBrttWY0WwS98S6zvA/tIQA6TnMOOBA=
@@ -596,21 +470,13 @@
 		</dict>
 		<key>Headers/Maply3dTouchPreviewDelegate.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			c/xewEw2R6OpJq0lPPd8t6496SI=
-			</data>
 			<key>hash2</key>
 			<data>
-			P4NQriXbuVW2iu4tIHVYkLViKXfw85PcdyjwlIwUjmc=
+			RGt2NCZA98UKbW5BAf+NqqyfGtBwlRmQScU6oWaC4Ns=
 			</data>
 		</dict>
 		<key>Headers/MaplyActiveObject.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			oFGhFAjAYHrJ0wB1SoHsJLLqgvI=
-			</data>
 			<key>hash2</key>
 			<data>
 			GYik3WiBBpN/XOi48xqgO1+qHdXOBcszKmPjK4WeybQ=
@@ -618,10 +484,6 @@
 		</dict>
 		<key>Headers/MaplyAerisTiles.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ksHpZOEzvA10At+GXIBlb4jlt1w=
-			</data>
 			<key>hash2</key>
 			<data>
 			QnP9Kh6yjaTAr9by3Q5x5OssnCG6qvwu4FX9KSMBnMo=
@@ -629,98 +491,62 @@
 		</dict>
 		<key>Headers/MaplyAnimationTestTileSource.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			On0UnwU/qTqXnKK3U2HsFFBWscM=
-			</data>
 			<key>hash2</key>
 			<data>
-			kBX9HPhtaGw1UDLsKiL5y2khVSirSsxs4Lfxh6zYEJc=
+			YSG9BQZxCfwLWPr1vTUe1NgoEMRfnXEluRUDUurXwV8=
 			</data>
 		</dict>
 		<key>Headers/MaplyAnnotation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			RS4cs1z82WR18CgeVt+3c+NLdZI=
-			</data>
 			<key>hash2</key>
 			<data>
-			3MUC4P3JvUPO6Ko213U9uLqhJL8jTWpAANv3cp1XunY=
+			Yv0aeOUaziamw0d9C6ffd1dUJGJaQbf6yV/yd9vx77E=
 			</data>
 		</dict>
 		<key>Headers/MaplyAtmosphere.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			neCHbpj1bkEpzMk208fCUaQvkFg=
-			</data>
 			<key>hash2</key>
 			<data>
-			hpB67WIfr394avHg/eUeu4lgYv/ARlluPUUzoG/iJ+w=
+			88773RgJx3UUKsVcAECeTVeEdAAnEfbQYujEAVqxHgI=
 			</data>
 		</dict>
 		<key>Headers/MaplyBaseViewController.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			EmYfYl9O8nVLWMnRIxbBRl2+XNs=
-			</data>
 			<key>hash2</key>
 			<data>
-			kowLv9Ot+s3uOCzLQ1IQ0GSKaHnWY+o6cB5vN5QHTno=
+			BxefbSi1iifncB33euFTkUe77WPr3/V3yxgg1Eec9vk=
 			</data>
 		</dict>
 		<key>Headers/MaplyBillboard.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			RPb2ibJTcl8hLhuShEoF3YGanlI=
-			</data>
 			<key>hash2</key>
 			<data>
-			stnLPkVbKT4akrcgp5Qb1dBOeWOdAdMv4D37fJUDZXI=
+			7dglEHgm9bzOqlkzbu8rAk6r6GFWDaJrQ4m6PPpKSlU=
 			</data>
 		</dict>
 		<key>Headers/MaplyBlankTileSource.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ZjgdhC9QV3wWYDp/VNdXt7GINHs=
-			</data>
 			<key>hash2</key>
 			<data>
-			4+kfe48FhfGnDx13OexwV7TFRCOhv6LCYh2FYH1D5fY=
+			fqMAg6as6n9Llsk/5wRC5I5f0DMM1oLygGY2GMeQ5Yk=
 			</data>
 		</dict>
 		<key>Headers/MaplyBridge.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			tekZm970/f9Z2ttGYNLRgt/RvhQ=
-			</data>
 			<key>hash2</key>
 			<data>
-			P2rSuVWV601O9rDkdz1ydEsYUlE9l1ozN/ZtlQGuYUU=
+			rCdWATaABc9cG2NAW3hBttU9z0JrrgrpSPcR8+eRRnI=
 			</data>
 		</dict>
 		<key>Headers/MaplyCluster.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			3MoDed4w1aNe3rXcx0ZSEXwUufc=
-			</data>
 			<key>hash2</key>
 			<data>
-			0MH+cxlSjNDx8ZgrCuH2Vlmhxirjf06Cb8VSdYWleTo=
+			wVd5vxrQVP/HOnmei7KYkjIP1oW3HPqJK1Iwe96iY/o=
 			</data>
 		</dict>
 		<key>Headers/MaplyColorRampGenerator.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			HyRswbCNLClgGqPfaDayUgMi1Ik=
-			</data>
 			<key>hash2</key>
 			<data>
 			V0KmZBBhDdsgXVuQk5nd1Q++c4SnwnXGGaA9N07w8bY=
@@ -728,21 +554,13 @@
 		</dict>
 		<key>Headers/MaplyComponent.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			k3LfxCmBhTcGuG00qGa0jPjXmRM=
-			</data>
 			<key>hash2</key>
 			<data>
-			pf66DDZck1aWRbdxEaVr0Rfl+qORqONASfQM+VaTP/o=
+			PzZ/akl+XwuohshG4beV/XDkm8b4N45XZ2ZUSuT6pD0=
 			</data>
 		</dict>
 		<key>Headers/MaplyComponentObject.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			hDVYHpft1fyUUrUJH5cDSBLL7lI=
-			</data>
 			<key>hash2</key>
 			<data>
 			ZKyuJoC8I8LuDddamTUzic37I01K9Ah8QyqnanOQJtE=
@@ -750,10 +568,6 @@
 		</dict>
 		<key>Headers/MaplyCoordinate.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			aQj5d70JCOakeWawMCibSaHIgno=
-			</data>
 			<key>hash2</key>
 			<data>
 			eqZmNIrKpmoKq1FHNPSl5UZVKgH9Xyo7GFTC43FDWPA=
@@ -761,76 +575,48 @@
 		</dict>
 		<key>Headers/MaplyCoordinateSystem.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			W0j+MLzpg/sJemLX64g+o9e9CZg=
-			</data>
 			<key>hash2</key>
 			<data>
-			2crNiayfKxZ9Nun8sdciExRbTVjP3Ju+64DCyoCKJRI=
+			yvL72c61FZ5fLqXCBGoGTOxz0F0Dg02r5Lczz5vNTRU=
 			</data>
 		</dict>
 		<key>Headers/MaplyElevationDatabase.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			iXu/RpQVmqpF3LBhe65pcJepLp4=
-			</data>
 			<key>hash2</key>
 			<data>
-			JloA1JJDFpTUzi/yTKJLwxipHo6e0NCmxI2MNg9RTeI=
+			dZ4ValmyYeZTFE6zqkh3VIeFj9eBAYUxsK3481WOXmQ=
 			</data>
 		</dict>
 		<key>Headers/MaplyElevationSource.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			rSTOCC5zRn3G+t73HqHZt/WVdYQ=
-			</data>
 			<key>hash2</key>
 			<data>
-			SPcSYsvGgYYpF4bdJiqEt+PwGgJm7LgiqNAjSWgO1wQ=
+			9kFMcgoECFgzgnxDK6QT8jqY9u3/qGDWw3PR1TS/tBc=
 			</data>
 		</dict>
 		<key>Headers/MaplyGDALRetileSource.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8v9saQu6re7b5anpaQbq/D7muGw=
-			</data>
 			<key>hash2</key>
 			<data>
-			4ziKMU+sh4P3qv4VHBBFQx7+xv7drWxZjq5KdOgCLP0=
+			+4Zoks8z2CyIVY7BJoZv/VB9R6uz5SOKunnmOFlu1WA=
 			</data>
 		</dict>
 		<key>Headers/MaplyGeomBuilder.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			COaRFj1z/6uYgLa6uSfxum6HUo0=
-			</data>
 			<key>hash2</key>
 			<data>
-			nDbEuuRn2kpqbal90Hk9MJqWlTUQfsyb7+GFzAqXUfY=
+			MQtH5BThhaOOXRv1xDT4UKiITzz0CY8TwWexKIr8N4U=
 			</data>
 		</dict>
 		<key>Headers/MaplyGeomModel.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ctnlij7v4nD+sc/WQN44Va1TMYY=
-			</data>
 			<key>hash2</key>
 			<data>
-			6YGq+52V6cJ6DJqXT04FfiH0IjHmom9KwHA9SB2Cq0o=
+			zyL2JDxCiZ+f+ZBkHJ1Bo7Nz5vkUvBUNolbSDWW83GU=
 			</data>
 		</dict>
 		<key>Headers/MaplyIconManager.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			gy6tOdC1rxJcKg6BbVCThHsTg6g=
-			</data>
 			<key>hash2</key>
 			<data>
 			FT7LRcGtr9EQUToMWbzVRXqu+t9+3e6qgOlXhUFLqJs=
@@ -838,120 +624,69 @@
 		</dict>
 		<key>Headers/MaplyImageTile.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			A/h16wMuNAjpBIknO5kApgg/0RI=
-			</data>
 			<key>hash2</key>
 			<data>
 			A+lPfM733q4voS1ORVrtirJl+cowTUVsmzCf0jCnIiM=
 			</data>
 		</dict>
-		<key>Headers/MaplyLAZMeshBuilder.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			vZhEjlb2tfq1uzjoZSKPKjOLgM8=
-			</data>
-			<key>hash2</key>
-			<data>
-			srln86Oiep5D/3shbtHjT4KUIWSyHlcc+DfnBGHy/Wc=
-			</data>
-		</dict>
 		<key>Headers/MaplyLAZQuadReader.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8Pc7K71/5NucGC0rVxooZPLIGuQ=
-			</data>
 			<key>hash2</key>
 			<data>
-			NRnHWAt7oCwTDh9Mdrtnu14X6gmY6vHstgt3i733+L0=
+			wn+ogjH4YTdGLwsD0k6luK60wRxLZu3mzEXf+6uSfK0=
 			</data>
 		</dict>
 		<key>Headers/MaplyLAZShader.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			IR0W2k/zBGWUv+WXtRZaHCMnEFc=
-			</data>
 			<key>hash2</key>
 			<data>
-			oIVkTrQuzctxxKzzplZyBUPDyfqFrolD0ICLW4cJdxs=
+			tPktgTPi7rk9jmrGBDrAutETB5HurTr0S25IoP+Rc+Y=
 			</data>
 		</dict>
 		<key>Headers/MaplyLabel.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			agnz7HLKjkgA4XJgKkjVMlB/iSc=
-			</data>
 			<key>hash2</key>
 			<data>
-			A3MzPEJIDFGmcmsLTjaplzRy0WZbwO6H79lE0tCoS7A=
+			28TjUgJ8OqrIZZ+kYc7c9cWPbG+/4c9F7la2vHq3ZC4=
 			</data>
 		</dict>
 		<key>Headers/MaplyLight.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ai/veNV0Ejhy9ABW+hPM2D4010U=
-			</data>
 			<key>hash2</key>
 			<data>
-			RbcigV1XDKqrUbj75uLf1qVRRuTV5qPC9DUlIpYeL7c=
+			lY3AGOK8JgfLJo1jNE+S305/NlVpfKmD1k8vngsU6y4=
 			</data>
 		</dict>
 		<key>Headers/MaplyLocationTracker.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			kb8VBJzKddewLMgvmT6mLk76vn0=
-			</data>
 			<key>hash2</key>
 			<data>
-			Fb0QGLimAOFHe8GyjCKuX3AJZ5FpjZmj4W8vByCWi6s=
+			/ARyrzYcGsFuRO16vR2AJi6DArtE0K8M5Mlmu5dfPos=
 			</data>
 		</dict>
 		<key>Headers/MaplyMBTileFetcher.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			h178K3VXoKWstlOX1MOd5PIhI2g=
-			</data>
 			<key>hash2</key>
 			<data>
-			2x4cVxQjlia/979EFgXsf5/7XqTJRbTF2/GKXrqcFBE=
+			VjRwln+J4tuuble95vNIrcyrXAaUGtEwa7Zl8bOZxOs=
 			</data>
 		</dict>
 		<key>Headers/MaplyMBTileSource.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			NyGqHmSeH9t7Dm6fYvhlx3jd02o=
-			</data>
 			<key>hash2</key>
 			<data>
-			iXcOchDJzPlQoffcWe4rxJf2gYxW5XdcZKw2oIeRg68=
+			MkLv3ynASHSwlo2KgWZj7V1sPNDEyf0tdDzOZZfpd7k=
 			</data>
 		</dict>
 		<key>Headers/MaplyMarker.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			CUOJkZnyOpmEKp0GJfRZhdlHgYU=
-			</data>
 			<key>hash2</key>
 			<data>
-			XS26R36qltqAVXBFngoLNK5YOk6JPH2GPM4LXs/mnq4=
+			ayJQMX1SdTerCtZzeo8S6xITV1ZsKRHS+2mgNJhkaEU=
 			</data>
 		</dict>
 		<key>Headers/MaplyMatrix.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			WT1Bx2jqoe2yY7mmd5aWBsxcAS8=
-			</data>
 			<key>hash2</key>
 			<data>
 			3LSB3YQ56MP+x5AjqsazRVastbds/wN5hrTOmYbUnb0=
@@ -959,241 +694,153 @@
 		</dict>
 		<key>Headers/MaplyMoon.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			nGC38J4hyuZlyfELGt6fEi+8UZ8=
-			</data>
 			<key>hash2</key>
 			<data>
-			P1Dh/uoKufEKTf8pfeDDe4G/fjA5yk2exNlH60cpHfE=
+			VqPqI4+10CVpSN6g/x6zd9xntdikOvRBGqkAPU+E56Q=
 			</data>
 		</dict>
 		<key>Headers/MaplyMultiplexTileSource.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			2Gg9WtdAUhX7jK40MhwlMTf0z54=
-			</data>
 			<key>hash2</key>
 			<data>
-			Il665HdEDjDl83VnTUjEyCDHsPs0pae9/exUhGoHS8g=
+			4jb7nPMxKhy4Q7NE8wvB/UoWH9Rb96yd8G+7xr1WyW8=
 			</data>
 		</dict>
 		<key>Headers/MaplyPagingElevationTestTileSource.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Mp8f1VJChOMcsrz6jNs8Sd6sBwA=
-			</data>
 			<key>hash2</key>
 			<data>
-			ksyvas1eY3tlF7Ua8Br83ADZGF31WKcfFV8Bv+K+mbE=
+			E7tQfg3PHON7+jMo5kTn+nEXOkGkTsuZWiEV7w3BpeU=
 			</data>
 		</dict>
 		<key>Headers/MaplyPagingVectorTestTileSource.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ueFKlKaT3N4xNjqDJJToCeybT/Q=
-			</data>
 			<key>hash2</key>
 			<data>
-			aIsvgdoNHcVd1g4k3DkqIeGe3Jv2ipCkviIE6VZZgHw=
+			JQcO/tdszU94zYREQJlfrx4nc4wNPC1URf2v7vt7/LM=
 			</data>
 		</dict>
 		<key>Headers/MaplyParticleSystem.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			UXhT/dOsyG7xzD+Nqs6F7+8VUzc=
-			</data>
 			<key>hash2</key>
 			<data>
-			fcuNzEuOl1A51G9m39KUoLyNNdZ7uklPdrlLhMzvayI=
+			uJMlb5IhoJCFFzswumEw5YpEUgBxBztCJeAJKMimySo=
 			</data>
 		</dict>
 		<key>Headers/MaplyPoints.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			XWSyZwg4BUqCTRwl2Hr3yULl5SE=
-			</data>
 			<key>hash2</key>
 			<data>
-			Om02UR5nBzzNDvx225edc11DCzNm+HDACyHP39I/fw0=
+			9/fhLb0yPUtTHa2ZbgIfTjQTMlHAjgqurNRdbowQ4ew=
 			</data>
 		</dict>
 		<key>Headers/MaplyQuadImageFrameLoader.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8HgWFNp5QJqltkBwREukyfVAZAM=
-			</data>
 			<key>hash2</key>
 			<data>
-			bRPmOEf0k3A8h/dH3zXGLAqjUVRnNLUOM17LbfYT+Ak=
+			hsgR4XqHnVbbQZgqZR+98ZpmIJ/+Qk/NebOLByLCCig=
 			</data>
 		</dict>
 		<key>Headers/MaplyQuadImageLoader.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			YHiG1aweGm+PdYukKcArtp5ZD1k=
-			</data>
 			<key>hash2</key>
 			<data>
-			hHz6+XmhCRsfYw73g3IazX7GbP8FxXcLnE6/7efPNbo=
+			ZQTN5EigWioBSBcJSYNm3TgjciqBfE1LI2TBjQ8RmL8=
 			</data>
 		</dict>
 		<key>Headers/MaplyQuadImageOfflineLayer.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			y6pZ/1GXzO59ZNuIln5QDHPtcu8=
-			</data>
 			<key>hash2</key>
 			<data>
-			cIy5gq+4MyQ+UuDYS+1UhrGSFN+fUvZCmIxftI8WeyQ=
+			ugSJHnjCMNfPZF7YpIPevXx3zOAsjYa2l3ynBdxsAEM=
 			</data>
 		</dict>
 		<key>Headers/MaplyQuadImageTilesLayer.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			1fC8dNBjMeMphXdOC6vPtj5mLAc=
-			</data>
 			<key>hash2</key>
 			<data>
-			4zFiM/GyrbuVNPLhyHIM3MholkGn6exvbYNe5enhUtE=
+			doahrU9OuzvCP2rFtecKnSbE6OoUq8R+F8735H3DkQM=
 			</data>
 		</dict>
 		<key>Headers/MaplyQuadPagingLayer.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			/Fn5ELlqcdldZOYFllkd4d8YCig=
-			</data>
 			<key>hash2</key>
 			<data>
-			zrlNSzsWD/M79mO/tCry2N3cz+jT6UmrNEviq/S29gU=
+			wSQUgsfspynyumrJKTHOtILxFXzOgHvkvO0tPCMgtV0=
 			</data>
 		</dict>
 		<key>Headers/MaplyQuadSampler.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			cNNCUqbQPRW/qK3m8M+BE0+7iWg=
-			</data>
 			<key>hash2</key>
 			<data>
-			gJ2OVqSogluqgeYLP9UEYIfWjc7lrw8kxxXIslZxU6I=
+			EeB4/j5AhQp3A8DCqWBp2EFZrgebsKCDZXa3QUwX5GQ=
 			</data>
 		</dict>
 		<key>Headers/MaplyQuadTracker.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ricGg/aeAVsNeTqQI2iM+p1WIPg=
-			</data>
 			<key>hash2</key>
 			<data>
-			LDiTzqmozq2vPWWHTMBoAmOelRbE0HphR5ipxxtpJPU=
+			1QaABIgLgWJD+tJXgMrd2Djd0gRHVuu9t45T1zn+4eM=
 			</data>
 		</dict>
 		<key>Headers/MaplyRemoteTileElevationSource.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Odqo8qUdPkurdNyvzTg11/2aVHM=
-			</data>
 			<key>hash2</key>
 			<data>
-			Jf1wJL+P966ARN7VOj/LjCAl0H+jElX9DGmyAmqNI84=
+			ktZxqwiR2UdulYX22i18lOsRoexDC7j3a7jTd4JJLzI=
 			</data>
 		</dict>
 		<key>Headers/MaplyRemoteTileFetcher.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			lQ3AcMdg65UV0MYa1Ann1FVboeQ=
-			</data>
 			<key>hash2</key>
 			<data>
-			9yw/1ObspiWxnDJFxrHS7HIB2s+LPPEu85gQggAItio=
+			UYDdU97OM2FuF9Eh/mn/TPxyeVoBs673YfDkfEyd7M8=
 			</data>
 		</dict>
 		<key>Headers/MaplyRemoteTileSource.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			aGpnXV1tQhDRDD4mbuNFNMRJsuI=
-			</data>
 			<key>hash2</key>
 			<data>
-			uvv+0kA+UaT3S1PCPvZtPsrkbENPuFlh0Y+ML95uKik=
+			TIvEbCtqvRgrwy7GClSMfPu7r2y+mCszW61LKTKJGMQ=
 			</data>
 		</dict>
 		<key>Headers/MaplyRenderController.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			i5Okz0kanvkNDDVrfcW3PnfSgCM=
-			</data>
 			<key>hash2</key>
 			<data>
-			wkD8YjpGCjVNwWSRLUTFY7+95BrsHluQ80TyXuh7N1o=
+			Aic6bmdSGCnLtaMLI+4iQv9JCz3pxNOHP2S4drDoqKY=
 			</data>
 		</dict>
 		<key>Headers/MaplyRenderTarget.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			V+x4S5lSa3dLbaCquGEAAMksC4Y=
-			</data>
 			<key>hash2</key>
 			<data>
-			rckWdbVvFNxk8fpmblB7hIgrSLphN38KnPEgmTX5u8k=
+			i05hvQQILQfNhaEdBZZsQ0/LDtYAY7jfX6y5zxs04R8=
 			</data>
 		</dict>
 		<key>Headers/MaplyScreenLabel.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			NFj0UVtkqrjk0LZQIwiEZlwlz/k=
-			</data>
 			<key>hash2</key>
 			<data>
-			PsqctDKHFgnmk2iB1eBX7MnNxfoeGs4rh6rf2YBeXck=
+			ghFGfFOuIYNryF7szVxdo0l4CkyJgS87vI+wRbytUXE=
 			</data>
 		</dict>
 		<key>Headers/MaplyScreenMarker.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Ewp9KOS5mZXPdhDjATipyS/uxhc=
-			</data>
 			<key>hash2</key>
 			<data>
-			ciJ4Mz0w8oIXSXC34zoXQ7WFaoCeCPWhllWovBqHfBM=
+			w6VryIsg6iwR/ZlWNuYeHuafUpf1z1oEOxU3B4Ixyn4=
 			</data>
 		</dict>
 		<key>Headers/MaplyScreenObject.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Cm1GEfiapBye/GtrQmOSglj8Mhg=
-			</data>
 			<key>hash2</key>
 			<data>
-			INKwBaYcg82oMqFbwDjOIczsWLYK29tn2bLUHxtuU5M=
+			/do4Jc18/psC+OpdMlFSH0K9sV7rNENCE6VkesEeEx0=
 			</data>
 		</dict>
 		<key>Headers/MaplyShader.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			awx8CO7GjH/dovLlLAQj9j4E+m8=
-			</data>
 			<key>hash2</key>
 			<data>
 			SMgclsvLE18MC+Vb2xOxAPA9D2DgcYTTz7ueYA6Xfiw=
@@ -1201,21 +848,13 @@
 		</dict>
 		<key>Headers/MaplyShape.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			r4ciZV7Tdi7oz4yEuxccFpJ/+ks=
-			</data>
 			<key>hash2</key>
 			<data>
-			iS+BQa2weTAW9Y/jftzl6fVZLyQXaidTCmlkdJpr7Lw=
+			ClunNo+7uSocYWeH3ealxIc3szh6ovwrbqpCOO7NR1s=
 			</data>
 		</dict>
 		<key>Headers/MaplySharedAttributes.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			VY8ipqJ1+ZOt2RMu1d67fcytmog=
-			</data>
 			<key>hash2</key>
 			<data>
 			IKUtZ+RZi3sTLlRPi3r9hrgfXyipZIo84j+4T9rK5bQ=
@@ -1223,54 +862,34 @@
 		</dict>
 		<key>Headers/MaplySphericalQuadEarthWithTexGroup.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			1AZOap5Tl1Y9KRNdCnZou9GVMIg=
-			</data>
 			<key>hash2</key>
 			<data>
-			GiESoJqDXGks92GG3Y3GIJdqLSnqthMh21pm/fYspfE=
+			DQRaN0zuDyN17uAC9R6pn1p/BXHuwbn26EQ3O/ornxU=
 			</data>
 		</dict>
 		<key>Headers/MaplyStarsModel.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			/9p5YT6j6CXieDYPHuseSlzXG6s=
-			</data>
 			<key>hash2</key>
 			<data>
-			pCt7Tl4iPOq17sJy/ygGZvCWTvNTD0B68Fln8MRHgow=
+			If8kWupjuinoweE7WIuq3t66/SW5jKgyeoGI3XsX1h8=
 			</data>
 		</dict>
 		<key>Headers/MaplySticker.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			zaPdnz//n8WPukyDUjSYQDoAksU=
-			</data>
 			<key>hash2</key>
 			<data>
-			muiShb4csL6w7ozrWvLQLmxige8rQa9PesOYNljZ7Tg=
+			O0qXFo9sbnstfS2HfDzg+1fYjTRWz41j1fCWxT458x0=
 			</data>
 		</dict>
 		<key>Headers/MaplySun.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			lGLNjBMUIPohwh95l755vHiONTs=
-			</data>
 			<key>hash2</key>
 			<data>
-			95G520EfbGUT9TGPr/xnyWjfFbZL+MGUFdU5m87ENSw=
+			w+LoqMaMjeaIA5RGq6mRN/H9P/PCM1z8NKF9Yz0BIMA=
 			</data>
 		</dict>
 		<key>Headers/MaplyTexture.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			YMusSf2ltUThqVsL18l8bb4uAiw=
-			</data>
 			<key>hash2</key>
 			<data>
 			noJPANuwu+2w0ZaEP/lR1D1q0bB7iwQa6VXLMofe0nU=
@@ -1278,10 +897,6 @@
 		</dict>
 		<key>Headers/MaplyTextureBuilder.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			5C293mPoxEfNJbsxdIZaHOdh3nU=
-			</data>
 			<key>hash2</key>
 			<data>
 			4WlwUrx7ZJVFVWoLlA3SDeGE29/IHrbenIRcEfRcksU=
@@ -1289,65 +904,41 @@
 		</dict>
 		<key>Headers/MaplyTileSource.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			kMiP693ykvKF9MWCooK9t/JAO+s=
-			</data>
 			<key>hash2</key>
 			<data>
-			EviAFi2rij/fw2JoIcP9TyNCFeD0vWiPPFP31UCEkw0=
+			omXOwjXgwtcmXQSEJrGhkHXfWlvkEJjFcxmjXN5B/vU=
 			</data>
 		</dict>
 		<key>Headers/MaplyTileSourceNew.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			wKsQRjj65SwHuZ1s+8rlDmwP6MA=
-			</data>
 			<key>hash2</key>
 			<data>
-			fO1ZRV68kdRoZ08Oi4Rc6UXC/EsNqNG/BCd6Tz8BjbY=
+			cD1v0B/gP79vZ1fiuqUCpiQC1hw1vZEXNattgkNKlBE=
 			</data>
 		</dict>
 		<key>Headers/MaplyUpdateLayer.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uCQSldgwopmNKCmd5T2NkUJ0cY0=
-			</data>
 			<key>hash2</key>
 			<data>
-			kZQgCaeVdx7lCWzxQM6y8BADwisVFzw+X19kG7O4W9Y=
+			x15XsuFy7XYSBb4WudeYW3mISVgkLibs3+kETN+10aw=
 			</data>
 		</dict>
 		<key>Headers/MaplyVariableTarget.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			If1zvmdyfbOXBM/x6FEUFowzdzg=
-			</data>
 			<key>hash2</key>
 			<data>
-			VFk0JuSlRGMwaLsKfEcixYz8bOLhDgoHVnOuMKGTav4=
+			2MBrlbnhhxOJtKNbCpVzFUxwgsekfdqA4PIWWm4rlkM=
 			</data>
 		</dict>
 		<key>Headers/MaplyVectorObject.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			U0ZtnGmT37NZtz0XSpoUtB+jzMU=
-			</data>
 			<key>hash2</key>
 			<data>
-			6TR0bdQMl9/NWq8DeOJkJoBBUFVbRO7YQ+25tBE3ssk=
+			rIZ/hbyU7cWAd+nlTcrvqfV94dwdsFqPdiGGJsDGN4A=
 			</data>
 		</dict>
 		<key>Headers/MaplyVectorStyle.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			SVptm4/uKC6TKzxgsGMssrlXO/4=
-			</data>
 			<key>hash2</key>
 			<data>
 			zgZSXoAPsHeTilb94sL65Fq+QMuffgbpjTaHx/mT0KE=
@@ -1355,87 +946,20 @@
 		</dict>
 		<key>Headers/MaplyVectorStyleSimple.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			XWiNYdyI/ydgV/nuS5OjqZ31lo4=
-			</data>
 			<key>hash2</key>
 			<data>
-			nWqgpFfZ6W/NEX7McrMtp3bbpcHkoHcrb26GvHDL7So=
-			</data>
-		</dict>
-		<key>Headers/MaplyVectorTileLineStyle.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			H/eTscELckA1nkY9KmvZFS1EWnU=
-			</data>
-			<key>hash2</key>
-			<data>
-			AVlFVfZ/yuq/UWVJJRu+sYF8vmb9xjjdC3/cHo5byg0=
-			</data>
-		</dict>
-		<key>Headers/MaplyVectorTileMarkerStyle.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			tghmWB/ZR789JD4qj2PpMThW/ns=
-			</data>
-			<key>hash2</key>
-			<data>
-			cTwotdNcc+XlZXCCn1+aDh3Bsf2h141MQkrsr8JobFg=
-			</data>
-		</dict>
-		<key>Headers/MaplyVectorTilePolygonStyle.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			+MsBLE8RfynTrCNhQ8Bg8TiU8n0=
-			</data>
-			<key>hash2</key>
-			<data>
-			8DwN8EZsr0hB752e0xQDUF84zLs4PLu8gFQFX3Y+2SU=
-			</data>
-		</dict>
-		<key>Headers/MaplyVectorTileStyle.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			CiH3aSL/5JDUI/qkTNgjGQJlMBA=
-			</data>
-			<key>hash2</key>
-			<data>
-			VW0qN4CxUdOw61D2+1Dian4gS/WWNPgim34xTfIK0go=
-			</data>
-		</dict>
-		<key>Headers/MaplyVectorTileTextStyle.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ia43oZYhuxwS4ODmlmiTgylrhus=
-			</data>
-			<key>hash2</key>
-			<data>
-			eEFTObg6QomUIoCQ0B4A11PYUIE+CnDHItYOe1t9XLg=
+			/tzEjGoQcL5U4/vzLsLs8cqfSE2qXoH3Obhc1pmEpUU=
 			</data>
 		</dict>
 		<key>Headers/MaplyVectorTiles.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			BgiX+qHm0NNtUS21VTlr4/mA8xA=
-			</data>
 			<key>hash2</key>
 			<data>
-			uXhhuI/Aut2n7P6KGEFzcO34HIBatfg7NTueeplv7V4=
+			qIRnfa3ihVpqy0lcj1ud0sFEQMW7aVGY34H9LZDPhwM=
 			</data>
 		</dict>
 		<key>Headers/MaplyVertexAttribute.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			YZLdrbLqEpv0eiEBAxLU8O0WSZw=
-			</data>
 			<key>hash2</key>
 			<data>
 			f+P8vkoTh7h1POPhw5GdS9QlY0OZC1MC/8N5yVhPa40=
@@ -1443,21 +967,13 @@
 		</dict>
 		<key>Headers/MaplyViewController.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Sd6IZHK27u0Gm1E4uz4QCPnSi34=
-			</data>
 			<key>hash2</key>
 			<data>
-			jIxkkmSx/s9mWhPHwazffceHmhKBxIzgLqpNONvVP7U=
+			6vua9DAgmhP/zKjMkJTsT2iKGwu89yZSZqbTzunCM9c=
 			</data>
 		</dict>
 		<key>Headers/MaplyViewControllerLayer.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			xYwj8OPtmSKqbSdGVn6vCZjcR5k=
-			</data>
 			<key>hash2</key>
 			<data>
 			3yzVPpWz4Ets9cr9VR4+v+1GyyyUkHZx6VFgGWx8UA0=
@@ -1465,65 +981,27 @@
 		</dict>
 		<key>Headers/MaplyViewTracker.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			RM7p+AIHgqslBc0out4MK/q1TAg=
-			</data>
 			<key>hash2</key>
 			<data>
-			VIZGZR7ATeBUj6w8n+aajLBHJOkpPdX/IVvcPvNLtnM=
+			Ec/bIW1NuFnNy6yB+KeulVY5eQARk6vTJ42N+ZOxv80=
 			</data>
 		</dict>
 		<key>Headers/MaplyWMSTileSource.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			QIvFyMj7pPmT3+Brry6/VAnHfLE=
-			</data>
 			<key>hash2</key>
 			<data>
-			Sbla8r6Fj9ZaYMX8Q4zJgyuJJIuhtj3eky5bG5pXrJQ=
-			</data>
-		</dict>
-		<key>Headers/MapnikStyle.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			JUfucO+j8aQDTLQYIUzi97gCdvQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			BP92vbXST9qeUR4MDsEv/RWEkXJqGuGWodL0r8BKnnI=
-			</data>
-		</dict>
-		<key>Headers/MapnikStyleRule.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			IgHpXepyA0I+3eUf9dw+fWNYjHA=
-			</data>
-			<key>hash2</key>
-			<data>
-			4c5Hj9Q5dEWjHw/UF835Kns0nFBwW0rAVvjlWCPMz3Y=
+			t8iw0Vu2OQAyw1nqMgEuKr5dXG5AwNxmyentq6qALXs=
 			</data>
 		</dict>
 		<key>Headers/MapnikStyleSet.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			vN9ep9JPiQE4Z82m3tzdfeXWd5g=
-			</data>
 			<key>hash2</key>
 			<data>
-			LkTkTBQuTR/kHSIdSER0gjxOrcLBA384ayM8+mZYG3c=
+			kUHcoiN/MOd7/eDeDErqmg9JMKKQBU56rgYiTR/Bp/A=
 			</data>
 		</dict>
 		<key>Headers/NSData+Zlib.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			2S4iEEpj4CO38zIH98+d/tSZLpY=
-			</data>
 			<key>hash2</key>
 			<data>
 			fmphJu9QvIRF6HTPIc0Dn5lLSOXgrEp82WHA6OkmFo0=
@@ -1531,131 +1009,48 @@
 		</dict>
 		<key>Headers/NSDictionary+StyleRules.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uphDMxI5vMG/TqKHx4diLyAwLjM=
-			</data>
 			<key>hash2</key>
 			<data>
 			Q036mSm6ONEvutWOdPKRgh/nlmpUM+qVv2fIgEB3w20=
 			</data>
 		</dict>
-		<key>Headers/SLDExpressions.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			YUHbIEP5BSFIbzaYuDQiiJaTPxk=
-			</data>
-			<key>hash2</key>
-			<data>
-			Oju9IwAqlRDY4fPH4OZV+XneGdS9sT/3ChW1DRhhaIA=
-			</data>
-		</dict>
-		<key>Headers/SLDOperators.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			+/NaBhuBZXO+7ggIZYK0mH6v6/k=
-			</data>
-			<key>hash2</key>
-			<data>
-			7wIb8C1s7+03efiZy/y87txD1tyOxcKgVy4eC6pvLCQ=
-			</data>
-		</dict>
 		<key>Headers/SLDStyleSet.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			BG987MS3a7IN1P5Djcc/MYRs76s=
-			</data>
 			<key>hash2</key>
 			<data>
-			sSG7+DYG1/M0sjBWGOT7m5H2oqlYqFvSm7IFR5WtDAk=
-			</data>
-		</dict>
-		<key>Headers/SLDSymbolizers.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			d94CND9zYvpsshs0gIGNFCsiVGk=
-			</data>
-			<key>hash2</key>
-			<data>
-			PjBh7VNlvnB57ragQ+AidP7k/0fYwor0viCq4dKdfZ4=
-			</data>
-		</dict>
-		<key>Headers/SLDWellKnownMarkers.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			sVDu3JHFKWqIj8ZDJtqEEjjxAV4=
-			</data>
-			<key>hash2</key>
-			<data>
-			ya5gHA+ZTmtFxiFg/KpyzG+TO+80BOjHVrfPulQj/7Q=
+			L0QhU0YzUjv+kurJPlIZ22K8fdgs8IGvsnAI5HiTh0s=
 			</data>
 		</dict>
 		<key>Headers/WGCoordinate.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			G4SyjUNwrcEHJAMlhK/5iv3bbQU=
-			</data>
 			<key>hash2</key>
 			<data>
-			spftz8bFtwquCDfXkRwhyykzV+bHg78iyQZXx6/yedE=
+			BtnkVwyd13fBPWGwBewN5y/QYD6zA6D2aS4BtCdu4JI=
 			</data>
 		</dict>
 		<key>Headers/WhirlyGlobeComponent.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			G52MxkA9g3F7OAfCqhMNNDoQJZY=
-			</data>
 			<key>hash2</key>
 			<data>
-			yn8YmoMP56YrDPaTuiBlnNgSdyZ30AlzP1PL1SBTE4A=
+			W4rLipY1fDNWtlPwk3cADpTepi1i+AWenpzcwwl0ir0=
 			</data>
 		</dict>
 		<key>Headers/WhirlyGlobeMaplyComponent.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			bmwoPVh3gYaZUtD7DzorK9LSBSY=
-			</data>
 			<key>hash2</key>
 			<data>
-			2mwxswvptLfvFjzg2ber0RXYByXLkLEp66XqqKtuf5E=
+			I0ZSrw7hSHjOS5h8dk2YwyFfb3jE43bv2JtJzcY00KA=
 			</data>
 		</dict>
 		<key>Headers/WhirlyGlobeViewController.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			0QwQanUoGBfOCe/REdArHSYMDnw=
-			</data>
 			<key>hash2</key>
 			<data>
-			uARrKFRTa5RnJjiL9pEeO/4X5HpP/LnWhD7z2kwljeA=
-			</data>
-		</dict>
-		<key>Headers/vector_tile.pb.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			H9Mwur3Vyyep7RDf9dUWcFdPzy4=
-			</data>
-			<key>hash2</key>
-			<data>
-			Zsa/NxaC1Q65lVfNa1lGdp7DLl8OU5UpFpo2H0KNrbA=
+			fDGkM2fsbh4mZhbGei/6DN0TbENKM/pCbbjyJnqRZPs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			/djLVxr2n8wioKWzREw87MSHGrk=
-			</data>
 			<key>hash2</key>
 			<data>
 			Cxnlx5DaFX8piKJqaKVEV0GscOR3GA9jXdiqQzk9eB4=

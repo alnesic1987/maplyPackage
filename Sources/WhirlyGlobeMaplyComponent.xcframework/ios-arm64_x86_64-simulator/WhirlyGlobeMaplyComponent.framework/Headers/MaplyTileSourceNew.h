@@ -19,10 +19,10 @@
  */
 
 #import <UIKit/UIKit.h>
-#import "MaplyImageTile.h"
-#import "MaplyCoordinate.h"
-#import "MaplyCoordinateSystem.h"
-#import "MaplyTileSource.h"
+#import <WhirlyGlobeMaplyComponent/MaplyImageTile.h>
+#import <WhirlyGlobeMaplyComponent/MaplyCoordinate.h>
+#import <WhirlyGlobeMaplyComponent/MaplyCoordinateSystem.h>
+#import <WhirlyGlobeMaplyComponent/MaplyTileSource.h>
 
 /**
     Tile Info Protocol.

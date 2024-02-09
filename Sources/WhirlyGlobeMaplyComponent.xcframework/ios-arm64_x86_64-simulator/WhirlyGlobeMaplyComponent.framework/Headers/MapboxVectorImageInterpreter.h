@@ -20,12 +20,12 @@
 
 
 #import <Foundation/Foundation.h>
-#import "MaplyQuadPagingLayer.h"
-#import "MaplyTileSource.h"
-#import "MaplyCoordinate.h"
-#import "MaplyVectorStyle.h"
-#import "MapboxVectorTiles.h"
-#import "MaplyQuadImageLoader.h"
+#import <WhirlyGlobeMaplyComponent/MaplyQuadPagingLayer.h>
+#import <WhirlyGlobeMaplyComponent/MaplyTileSource.h>
+#import <WhirlyGlobeMaplyComponent/MaplyCoordinate.h>
+#import <WhirlyGlobeMaplyComponent/MaplyVectorStyle.h>
+#import <WhirlyGlobeMaplyComponent/MapboxVectorTiles.h>
+#import <WhirlyGlobeMaplyComponent/MaplyQuadImageLoader.h>
 
 @class MapboxVectorStyleSet;
 

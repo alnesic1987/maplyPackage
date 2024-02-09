@@ -18,7 +18,7 @@
  *
  */
 
-#import "MapboxVectorStyleSet.h"
+#import <WhirlyGlobeMaplyComponent/MapboxVectorStyleSet.h>
 
 @interface MapboxVectorFillLayout : NSObject
 

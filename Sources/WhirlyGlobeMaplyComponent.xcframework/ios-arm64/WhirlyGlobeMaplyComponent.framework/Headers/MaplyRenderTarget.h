@@ -19,7 +19,7 @@
  */
 
 #import <UIKit/UIKit.h>
-#import "MaplyTexture.h"
+#import <WhirlyGlobeMaplyComponent/MaplyTexture.h>
 
 /** 
     Represents a render target (other than the screen)

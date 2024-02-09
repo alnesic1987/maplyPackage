@@ -18,19 +18,19 @@
  *
  */
 
-#import "MaplyCoordinate.h"
-#import "MaplyScreenMarker.h"
-#import "MaplyVectorObject.h"
-#import "MaplyComponentObject.h"
-#import "MaplySharedAttributes.h"
-#import "MaplyLight.h"
-#import "MaplyShader.h"
-#import "MaplyElevationSource.h"
-#import "MaplyTexture.h"
-#import "MaplyParticleSystem.h"
-#import "MaplyPoints.h"
-#import "MaplyCluster.h"
-#import "MaplyRenderTarget.h"
+#import <WhirlyGlobeMaplyComponent/MaplyCoordinate.h>
+#import <WhirlyGlobeMaplyComponent/MaplyScreenMarker.h>
+#import <WhirlyGlobeMaplyComponent/MaplyVectorObject.h>
+#import <WhirlyGlobeMaplyComponent/MaplyComponentObject.h>
+#import <WhirlyGlobeMaplyComponent/MaplySharedAttributes.h>
+#import <WhirlyGlobeMaplyComponent/MaplyLight.h>
+#import <WhirlyGlobeMaplyComponent/MaplyShader.h>
+#import <WhirlyGlobeMaplyComponent/MaplyElevationSource.h>
+#import <WhirlyGlobeMaplyComponent/MaplyTexture.h>
+#import <WhirlyGlobeMaplyComponent/MaplyParticleSystem.h>
+#import <WhirlyGlobeMaplyComponent/MaplyPoints.h>
+#import <WhirlyGlobeMaplyComponent/MaplyCluster.h>
+#import <WhirlyGlobeMaplyComponent/MaplyRenderTarget.h>
 
 /// Where we'd like an add to be executed.  If you need immediate feedback,
 ///  then be on the main thread and use MaplyThreadCurrent.  Any is the default.

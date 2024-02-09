@@ -18,8 +18,8 @@
  *
  */
 
-#import "MaplyTileSource.h"
-#import "MaplyCoordinateSystem.h"
+#import <WhirlyGlobeMaplyComponent/MaplyTileSource.h>
+#import <WhirlyGlobeMaplyComponent/MaplyCoordinateSystem.h>
 
 /** The animation test tile source provides fake images to test the
     animation functionality in the quad image tiles layer.  In general,

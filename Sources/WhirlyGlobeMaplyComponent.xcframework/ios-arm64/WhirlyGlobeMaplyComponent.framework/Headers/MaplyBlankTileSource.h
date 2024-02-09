@@ -18,8 +18,8 @@
  *
  */
 
-#import "MaplyTileSource.h"
-#import "MaplyCoordinateSystem.h"
+#import <WhirlyGlobeMaplyComponent/MaplyTileSource.h>
+#import <WhirlyGlobeMaplyComponent/MaplyCoordinateSystem.h>
 
 /** 
     A blank tile sources just generates a single colored image for each tile.

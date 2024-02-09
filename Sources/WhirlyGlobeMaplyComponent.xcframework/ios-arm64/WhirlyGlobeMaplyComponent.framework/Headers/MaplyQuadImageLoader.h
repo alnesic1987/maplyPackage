@@ -17,12 +17,12 @@
  *
  */
 
-#import "MaplyViewControllerLayer.h"
-#import "MaplyCoordinateSystem.h"
-#import "MaplyRemoteTileSource.h"
-#import "MaplyRenderController.h"
-#import "MaplyQuadSampler.h"
-#import "MaplyRemoteTileFetcher.h"
+#import <WhirlyGlobeMaplyComponent/MaplyViewControllerLayer.h>
+#import <WhirlyGlobeMaplyComponent/MaplyCoordinateSystem.h>
+#import <WhirlyGlobeMaplyComponent/MaplyRemoteTileSource.h>
+#import <WhirlyGlobeMaplyComponent/MaplyRenderController.h>
+#import <WhirlyGlobeMaplyComponent/MaplyQuadSampler.h>
+#import <WhirlyGlobeMaplyComponent/MaplyRemoteTileFetcher.h>
 
 /**
   Passed in to and returned by the Loader Interpreter.

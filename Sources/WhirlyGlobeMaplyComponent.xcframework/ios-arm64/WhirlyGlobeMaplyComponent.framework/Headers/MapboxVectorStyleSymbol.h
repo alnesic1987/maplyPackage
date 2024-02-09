@@ -18,7 +18,7 @@
  *
  */
 
-#import "MapboxVectorStyleSet.h"
+#import <WhirlyGlobeMaplyComponent/MapboxVectorStyleSet.h>
 
 typedef enum {MBTextCenter,MBTextLeft,MBTextRight,MBTextTop,MBTextBottom,MBTextTopLeft,MBTextTopRight,MBTextBottomLeft,MBTextBottomRight} MapboxTextAnchor;
 typedef enum {MBPlacePoint,MBPlaceLine} MapboxSymbolPlacement;

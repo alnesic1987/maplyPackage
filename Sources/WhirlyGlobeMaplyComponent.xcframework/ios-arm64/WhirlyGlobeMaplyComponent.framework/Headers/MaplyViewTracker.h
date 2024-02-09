@@ -19,7 +19,7 @@
  */
 
 #import <UIKit/UIKit.h>
-#import "WGCoordinate.h"
+#import <WhirlyGlobeMaplyComponent/WGCoordinate.h>
 
 /** 
     The View Tracker associates a view with a geographic location.

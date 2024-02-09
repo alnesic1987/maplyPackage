@@ -19,8 +19,8 @@
  */
 
 #import <Foundation/Foundation.h>
-#import "MaplyVectorStyle.h"
-#import "MapboxVectorTiles.h"
+#import <WhirlyGlobeMaplyComponent/MaplyVectorStyle.h>
+#import <WhirlyGlobeMaplyComponent/MapboxVectorTiles.h>
 
 @class MapboxVectorFilter;
 @class MaplyVectorFunctionStops;

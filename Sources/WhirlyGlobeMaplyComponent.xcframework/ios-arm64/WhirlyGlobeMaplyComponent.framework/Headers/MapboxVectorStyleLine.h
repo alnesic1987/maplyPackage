@@ -18,7 +18,7 @@
  *
  */
 
-#import "MapboxVectorStyleSet.h"
+#import <WhirlyGlobeMaplyComponent/MapboxVectorStyleSet.h>
 
 typedef enum {MBLineCapButt,MBLineCapRound,MBLineCapSquare} MapboxVectorLineCap;
 typedef enum {MBLineJoinBevel,MBLineJoinRound,MBLineJoinMiter} MapboxVectorLineJoin;

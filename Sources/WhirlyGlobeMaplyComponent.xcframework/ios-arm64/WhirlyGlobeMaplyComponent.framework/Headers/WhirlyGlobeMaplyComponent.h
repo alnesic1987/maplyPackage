@@ -17,7 +17,7 @@ FOUNDATION_EXPORT const unsigned char WhirlyGlobeMaplyComponentVersionString[];
 // In this header, you should import all the public headers of your framework using statements like #import <WhirlyGlobeMaplyComponent/PublicHeader.h>
 
 #import <WhirlyGlobeMaplyComponent/WhirlyGlobeComponent.h>
-#import <WhirlyGlobeMaplyComponent/MaplyLAZMeshBuilder.h>
+//#import <WhirlyGlobeMaplyComponent/MaplyLAZMeshBuilder.h>
 #import <WhirlyGlobeMaplyComponent/WGCoordinate.h>
 #import <WhirlyGlobeMaplyComponent/MaplyCoordinateSystem.h>
 #import <WhirlyGlobeMaplyComponent/MaplyMatrix.h>

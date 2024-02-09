@@ -7,8 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "MaplyShader.h"
-#import "MaplyBaseViewController.h"
+#import <WhirlyGlobeMaplyComponent/MaplyShader.h>
+#import <WhirlyGlobeMaplyComponent/MaplyBaseViewController.h>
 
 // Name of the point size uniform attribute.
 extern NSString* const kMaplyLAZShaderPointSize;

@@ -18,7 +18,7 @@
  *
  */
 
-#import "MaplyComponent.h"
-#import "MaplyBaseViewController.h"
-#import "WhirlyGlobeViewController.h"
-#import "MaplyViewController.h"
+#import <WhirlyGlobeMaplyComponent/MaplyComponent.h>
+#import <WhirlyGlobeMaplyComponent/MaplyBaseViewController.h>
+#import <WhirlyGlobeMaplyComponent/WhirlyGlobeViewController.h>
+#import <WhirlyGlobeMaplyComponent/MaplyViewController.h>

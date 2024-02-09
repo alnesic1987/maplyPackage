@@ -18,9 +18,9 @@
  *
  */
 
-#import "MaplyTileSource.h"
-#import "MaplyQuadPagingLayer.h"
-#import "MapboxVectorTiles.h"
+#import <WhirlyGlobeMaplyComponent/MaplyTileSource.h>
+#import <WhirlyGlobeMaplyComponent/MaplyQuadPagingLayer.h>
+#import <WhirlyGlobeMaplyComponent/MapboxVectorTiles.h>
 
 /**
  Provides on demand creation for Mapnik style vector tiles.

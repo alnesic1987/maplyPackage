@@ -7,9 +7,9 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "MaplyQuadPagingLayer.h"
-#import "WhirlyGlobeViewController.h"
-#import "MaplyLAZShader.h"
+#import <WhirlyGlobeMaplyComponent/MaplyQuadPagingLayer.h>
+#import <WhirlyGlobeMaplyComponent/WhirlyGlobeViewController.h>
+#import <WhirlyGlobeMaplyComponent/MaplyLAZShader.h>
 
 /// Override the coordinate system
 extern NSString * const kMaplyLAZReaderCoordSys;

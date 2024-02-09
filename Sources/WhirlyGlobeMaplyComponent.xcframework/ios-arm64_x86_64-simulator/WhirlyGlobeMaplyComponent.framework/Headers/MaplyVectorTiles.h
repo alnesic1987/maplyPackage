@@ -19,8 +19,8 @@
  */
 
 #import <UIKit/UIKit.h>
-#import "MaplyQuadPagingLayer.h"
-#import "MaplyVectorStyle.h"
+#import <WhirlyGlobeMaplyComponent/MaplyQuadPagingLayer.h>
+#import <WhirlyGlobeMaplyComponent/MaplyVectorStyle.h>
 
 /** A Maply Vector Tiles database contains tiled vector data that
     can be displayed using styles contained within the database.

@@ -18,8 +18,8 @@
  *
  */
 
-#import "MaplyTileSource.h"
-#import "MaplyCoordinateSystem.h"
+#import <WhirlyGlobeMaplyComponent/MaplyTileSource.h>
+#import <WhirlyGlobeMaplyComponent/MaplyCoordinateSystem.h>
 
 @protocol MaplyRemoteTileInfoProtocol
 

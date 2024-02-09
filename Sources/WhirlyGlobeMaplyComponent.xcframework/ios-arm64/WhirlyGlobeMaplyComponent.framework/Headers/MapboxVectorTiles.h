@@ -20,10 +20,10 @@
 
 
 #import <Foundation/Foundation.h>
-#import "MaplyQuadPagingLayer.h"
-#import "MaplyTileSource.h"
-#import "MaplyCoordinate.h"
-#import "MaplyVectorStyle.h"
+#import <WhirlyGlobeMaplyComponent/MaplyQuadPagingLayer.h>
+#import <WhirlyGlobeMaplyComponent/MaplyTileSource.h>
+#import <WhirlyGlobeMaplyComponent/MaplyCoordinate.h>
+#import <WhirlyGlobeMaplyComponent/MaplyVectorStyle.h>
 
 /** 
     Geometry type for data found within PBF files.

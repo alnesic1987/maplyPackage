@@ -18,9 +18,9 @@
  *
  */
 
-#import "MaplyTileSource.h"
-#import "MaplyCoordinateSystem.h"
-#import "MaplyElevationSource.h"
+#import <WhirlyGlobeMaplyComponent/MaplyTileSource.h>
+#import <WhirlyGlobeMaplyComponent/MaplyCoordinateSystem.h>
+#import <WhirlyGlobeMaplyComponent/MaplyElevationSource.h>
 
 @interface MaplyRemoteTileElevationInfo : NSObject
 

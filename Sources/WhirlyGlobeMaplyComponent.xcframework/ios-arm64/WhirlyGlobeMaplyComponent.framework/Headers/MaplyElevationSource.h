@@ -18,9 +18,9 @@
  *
  */
 
-#import "MaplyComponentObject.h"
-#import "MaplyCoordinateSystem.h"
-#import "MaplyTileSource.h"
+#import <WhirlyGlobeMaplyComponent/MaplyComponentObject.h>
+#import <WhirlyGlobeMaplyComponent/MaplyCoordinateSystem.h>
+#import <WhirlyGlobeMaplyComponent/MaplyTileSource.h>
 
 /** 
     The elevation chunk is a base class for representing elevation data in Maply.

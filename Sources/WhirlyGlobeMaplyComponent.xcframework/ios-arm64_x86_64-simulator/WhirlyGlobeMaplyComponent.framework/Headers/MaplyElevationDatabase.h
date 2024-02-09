@@ -19,7 +19,7 @@
  */
 
 #import <UIKit/UIKit.h>
-#import "MaplyElevationSource.h"
+#import <WhirlyGlobeMaplyComponent/MaplyElevationSource.h>
 
 /** 
     An elevation source corresponding to a custom sqlite database.

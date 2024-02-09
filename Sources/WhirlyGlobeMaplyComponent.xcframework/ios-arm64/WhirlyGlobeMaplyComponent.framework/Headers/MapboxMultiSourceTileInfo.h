@@ -18,9 +18,9 @@
  *
  */
 
-#import "MaplyRemoteTileSource.h"
-#import "MapboxVectorTiles.h"
-#import "MaplyQuadImageTilesLayer.h"
+#import <WhirlyGlobeMaplyComponent/MaplyRemoteTileSource.h>
+#import <WhirlyGlobeMaplyComponent/MapboxVectorTiles.h>
+#import <WhirlyGlobeMaplyComponent/MaplyQuadImageTilesLayer.h>
 
 /// The various types of style that will work with Mapnik vector tiles
 typedef NS_ENUM(NSInteger, MapnikStyleType) {

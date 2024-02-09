@@ -19,8 +19,8 @@
  */
 
 #import <UIKit/UIKit.h>
-#import "MaplyTileSource.h"
-#import "WhirlyGlobeViewController.h"
+#import <WhirlyGlobeMaplyComponent/MaplyTileSource.h>
+#import <WhirlyGlobeMaplyComponent/WhirlyGlobeViewController.h>
 
 /** 
     Return data for one or more point queries.

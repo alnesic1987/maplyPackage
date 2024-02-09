@@ -19,9 +19,9 @@
  */
 
 #import <UIKit/UIKit.h>
-#import "MaplyImageTile.h"
-#import "MaplyCoordinate.h"
-#import "MaplyCoordinateSystem.h"
+#import <WhirlyGlobeMaplyComponent/MaplyImageTile.h>
+#import <WhirlyGlobeMaplyComponent/MaplyCoordinate.h>
+#import <WhirlyGlobeMaplyComponent/MaplyCoordinateSystem.h>
 
 /** 
     Status information for each frame's loading status.

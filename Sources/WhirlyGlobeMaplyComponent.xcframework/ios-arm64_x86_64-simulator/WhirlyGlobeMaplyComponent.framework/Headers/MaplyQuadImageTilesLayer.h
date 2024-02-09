@@ -18,10 +18,10 @@
  *
  */
 
-#import "MaplyViewControllerLayer.h"
-#import "MaplyCoordinateSystem.h"
-#import "MaplyTileSource.h"
-#import "MaplyRenderController.h"
+#import <WhirlyGlobeMaplyComponent/MaplyViewControllerLayer.h>
+#import <WhirlyGlobeMaplyComponent/MaplyCoordinateSystem.h>
+#import <WhirlyGlobeMaplyComponent/MaplyTileSource.h>
+#import <WhirlyGlobeMaplyComponent/MaplyRenderController.h>
 
 /** 
     The Maply Quad Image Tiles Layer is for paging image pyramids local or remote.

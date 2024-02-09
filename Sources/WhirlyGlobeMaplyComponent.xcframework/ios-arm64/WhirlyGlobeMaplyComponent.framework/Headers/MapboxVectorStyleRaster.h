@@ -18,7 +18,7 @@
  *
  */
 
-#import "MapboxVectorStyleSet.h"
+#import <WhirlyGlobeMaplyComponent/MapboxVectorStyleSet.h>
 
 /// @brief Raster tiles
 @interface MapboxVectorLayerRaster : MaplyMapboxVectorStyleLayer

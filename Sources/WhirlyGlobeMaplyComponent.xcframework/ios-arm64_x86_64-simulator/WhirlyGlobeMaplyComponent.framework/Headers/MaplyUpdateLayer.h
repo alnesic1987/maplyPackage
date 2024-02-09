@@ -18,12 +18,12 @@
  *
  */
 
-#import "MaplyComponentObject.h"
-#import "MaplyViewControllerLayer.h"
-#import "MaplyCoordinate.h"
-#import "MaplyCoordinateSystem.h"
-#import "MaplyTileSource.h"
-#import "MaplyRenderController.h"
+#import <WhirlyGlobeMaplyComponent/MaplyComponentObject.h>
+#import <WhirlyGlobeMaplyComponent/MaplyViewControllerLayer.h>
+#import <WhirlyGlobeMaplyComponent/MaplyCoordinate.h>
+#import <WhirlyGlobeMaplyComponent/MaplyCoordinateSystem.h>
+#import <WhirlyGlobeMaplyComponent/MaplyTileSource.h>
+#import <WhirlyGlobeMaplyComponent/MaplyRenderController.h>
 
 @class MaplyUpdateLayer;
 

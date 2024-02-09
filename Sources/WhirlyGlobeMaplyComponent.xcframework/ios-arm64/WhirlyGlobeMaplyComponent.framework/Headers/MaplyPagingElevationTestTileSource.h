@@ -18,8 +18,8 @@
  *
  */
 
-#import "MaplyQuadPagingLayer.h"
-#import "MaplyCoordinateSystem.h"
+#import <WhirlyGlobeMaplyComponent/MaplyQuadPagingLayer.h>
+#import <WhirlyGlobeMaplyComponent/MaplyCoordinateSystem.h>
 
 
 /** 
